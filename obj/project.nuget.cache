@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AtUjFXlWNpw=",
+  "success": true,
+  "projectFilePath": "/home/psyduck/Repos/intern-assng/cloudqa-assignment/cloudqa-assignment.csproj",
+  "expectedPackageFiles": [
+    "/home/psyduck/.nuget/packages/selenium.support/4.31.0/selenium.support.4.31.0.nupkg.sha512",
+    "/home/psyduck/.nuget/packages/selenium.webdriver/4.31.0/selenium.webdriver.4.31.0.nupkg.sha512",
+    "/home/psyduck/.nuget/packages/selenium.webdriver.geckodriver/0.36.0/selenium.webdriver.geckodriver.0.36.0.nupkg.sha512",
+    "/home/psyduck/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
